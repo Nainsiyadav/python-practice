@@ -3,7 +3,6 @@
 This repository contains my Python practice programs covering basic to intermediate concepts.  
 It includes examples, methods, and logic building exercises.
 
----
 
 ## 📌 Topics Covered
 
@@ -16,7 +15,6 @@ It includes examples, methods, and logic building exercises.
   - find(), count(), startswith(), endswith()
 - Examples with outputs
 
----
 
 ### 📋 2. Lists
 - List creation and indexing
@@ -27,7 +25,7 @@ It includes examples, methods, and logic building exercises.
 - Nested Lists
 - Iteration using loops
 
----
+
 
 ### 📦 3. Tuples
 - Tuple basics (immutable nature)
@@ -36,7 +34,7 @@ It includes examples, methods, and logic building exercises.
   - index()
 - Packing and unpacking
 
----
+
 
 ### 📚 4. Dictionary
 - Key-value pair structure
@@ -45,7 +43,6 @@ It includes examples, methods, and logic building exercises.
   - update(), pop(), popitem(), clear()
 - Looping through dictionary
 
----
 
 ### ⭐ 5. Pattern Programs
 - Number patterns
@@ -54,7 +51,7 @@ It includes examples, methods, and logic building exercises.
 - Pyramid and reverse patterns
 - Logic building using loops
 
----
+
 
 ## 🎯 Purpose
 - Improve Python fundamentals
