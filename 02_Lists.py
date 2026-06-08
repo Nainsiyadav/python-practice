@@ -81,4 +81,4 @@ print("slice 2:", nums[:3])    # [10, 20, 30]
 print("slice 3:", nums[2:])    # [30, 40, 50]
 
 
-# END OF LIST METHODS
+
