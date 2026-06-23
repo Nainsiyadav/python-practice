@@ -6,16 +6,16 @@ It includes examples, methods, and logic building exercises.
 
 ## 📌 Topics Covered
 
--Comments
--Variable and data type
--type conversion
--input output
--operators
--string
--tuple
--List
--Dictionary
--patters
+- Comments
+- Variable and data type
+- type conversion
+- input output
+- operators
+- string
+- tuple
+- List
+- Dictionary
+- patters
 
 
 
