@@ -1,7 +1,7 @@
 
 # For loop 
 # For loop with integers
-'''for i in range(0,51,2):
+for i in range(0,51,2):
    print(i)
 
 # Printing multiplication table 
@@ -18,7 +18,7 @@ for i in a:
 # Method-2
 a=str(input("please enter your String :-"))
 for i in range(len(a)):
-    print(f"{i} : {a[i]}")'''
+    print(f"{i} : {a[i]}")
 
 
 
@@ -47,6 +47,7 @@ for i in range(0,11,1):
     print(i)
 else:
     print("No break was used ")
+    
 
 # else with continue
 for i in range(0,11,1):
@@ -57,3 +58,29 @@ else:
     print("No continue was used ")
 
 
+# printing reverse numbers 
+n=int(input("please enter your number :  "))
+for i in range(n,0,-1):
+    print(i)
+
+
+# multiplication table 
+n=int(input("please enter your number :"))
+for i in range(1,11):
+    print(f"{n} X {i} = ",n*i)
+
+
+# printing sum of natural number till the given range 
+sum=0
+n=int(input("please enter your number : "))
+for i in range(1,n+1):
+   sum = sum+i
+print(sum)
+
+
+# factorial  
+fact=1
+n=int(input("please enter your number : "))
+for i in range(1,n+1):
+    fact = fact*i
+print(fact)
